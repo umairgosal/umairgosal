@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairgosal&label=Profile%20views&color=0e75b6&style=flat" alt="umairgosal" /> </p>
 
-- 🔭 I’m currently working on **Full-scale SadaPay Clone in Reactjs**
+- 🔭 I’m currently working on **Full-scale React-Native App**
 
-- 🌱 I’m currently learning **Nodejs, Express, MongoDB, CSS**
+- 🌱 I’m currently learning **Designing full stack applications from Designing to deployment to understand the whole work flow**
 
-- 💬 Ask me about **React, NEXT**
+- 💬 Ask me about **React, figma, Next.js**
 
 - 📫 How to reach me **umairgosal123@gmail.com**
 
