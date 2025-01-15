@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairgosal&label=Profile%20views&color=0e75b6&style=flat" alt="umairgosal" /> </p>
 
-- 🔭 I’m currently working on **Saadat native app**
-
-- 🌱 I’m currently learning **Designing full stack applications from Designing to deployment understanding the whole work flow**
+- 🔭 I’m currently working on **Designing full stack applications from Designing to deployment understanding the whole work flow**
 
 - 💬 Ask me about **Figma, Graphic Designing, Web Design, Next.js, MERN**
 
