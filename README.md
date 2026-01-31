@@ -1,22 +1,32 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Gosal</h1>
-<h3 align="center">A frontend developer and designer passionate about Blockchain technology</h3>
+<h3 align="center">
+Full-Stack Developer | Web3 & Smart Contract Engineer | Product-Focused Developer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairgosal&label=Profile%20views&color=0e75b6&style=flat" alt="umairgosal" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=umairgosal&label=Profile%20views&color=0e75b6&style=flat" alt="umairgosal" />
+</p>
 
-- 🔭 I’m currently working on **Designing full stack applications from Designing to deployment understanding the whole work flow**
+- 🔭 I’m currently working on **building production-ready Web3 and full-stack applications**, spanning smart contracts, backend services, AI integrations, and modern frontend architectures.
 
-- 💬 Ask me about **Figma, Graphic Designing, Web Design, Next.js, MERN**
+- 💬 Ask me about **Solidity, Smart Contracts, Foundry, Web3 integrations, Next.js, MERN, Figma, and system design for blockchain-based products**.
 
-- 📫 How to reach me **umairgosal123@gmail.com**
+- 🧠 I enjoy designing **incentive-driven systems**, API-first backends, and scalable frontend experiences.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cuUp_1aO11gGsKd0gP2UwD7hOy7Cc33f/view?usp=sharing](https://drive.google.com/file/d/1cuUp_1aO11gGsKd0gP2UwD7hOy7Cc33f/view?usp=sharing)
+- 📫 How to reach me: **umairgosal123@gmail.com**
 
-- ⚡ Fun fact **I can talk about anything**
+- 📄 View my experience & projects:
+  <a href="https://drive.google.com/file/d/1cuUp_1aO11gGsKd0gP2UwD7hOy7Cc33f/view?usp=sharing" target="_blank">Resume</a>
+
+- ⚡ Fun fact: **I can talk for hours about technology, startups, and how products actually work under the hood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umair-gosal-227b54201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-gosal-227b54201" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/umair-gosal-227b54201" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
