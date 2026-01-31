@@ -16,7 +16,7 @@ Full-Stack Developer | Web3 & Smart Contract Engineer | Product-Focused Develope
 - 📫 How to reach me: **umairgosal123@gmail.com**
 
 - 📄 View my experience & projects:
-  <a href="https://drive.google.com/file/d/1cuUp_1aO11gGsKd0gP2UwD7hOy7Cc33f/view?usp=sharing" target="_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1m8FpaaBMGtDveLwT3RV4wuKr4ACMNIFF/view?usp=drive_link" target="_blank">Resume</a>
 
 - ⚡ Fun fact: **I can talk for hours about technology, startups, and how products actually work under the hood**
 
