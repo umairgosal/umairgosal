@@ -1,24 +1,21 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair Gosal</h1>
+<h1 align="center">Hi, I'm Muhammad Umair Gosal</h1>
 <h3 align="center">
-Full-Stack Developer | Web3 & Smart Contract Engineer | Product-Focused Developer
+  Smart Contract Engineer · Web3 Researcher · Full-Stack Developer
 </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=umairgosal&label=Profile%20views&color=0e75b6&style=flat" alt="umairgosal" />
 </p>
 
-- 🔭 I’m currently working on **building production-ready Web3 and full-stack applications**, spanning smart contracts, backend services, AI integrations, and modern frontend architectures.
+- 🔭 Currently building production-grade Web3 systems — smart contracts, DeFi backends, and full-stack dApps across EVM and Solana.
 
-- 💬 Ask me about **Solidity, Smart Contracts, Foundry, Web3 integrations, Next.js, MERN, Figma, and system design for blockchain-based products**.
+- 🧠 Researching **mechanism design and cryptographic primitives in decentralized systems** — with a focus on incentive alignment, post-quantum security, and ZK-based privacy protocols.
 
-- 🧠 I enjoy designing **incentive-driven systems**, API-first backends, and scalable frontend experiences.
+- 💬 Ask me about **Solidity, Foundry, smart contract architecture, DeFi protocol design, and system design for blockchain-native products**.
 
-- 📫 How to reach me: **umairgosal123@gmail.com**
+- 📫 Reach me at **umairgosal123@gmail.com**
 
-- 📄 View my experience & projects:
-  <a href="https://drive.google.com/file/d/1m8FpaaBMGtDveLwT3RV4wuKr4ACMNIFF/view?usp=sharing" target="_blank">Resume</a>
-
-- ⚡ Fun fact: **I can talk for hours about technology, startups, and how products actually work under the hood**
+- 📄 <a href="https://drive.google.com/file/d/1m8FpaaBMGtDveLwT3RV4wuKr4ACMNIFF/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
